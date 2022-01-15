@@ -1,0 +1,14 @@
+{
+  "generator-springboot": {
+    "appName": "pharmbox",
+    "packageName": "com.exp.managementapps.healthmedicine",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "flywaydb",
+    "features": [
+      "elk"
+    ],
+    "buildTool": "maven",
+    "packageFolder": "com/exp/managementapps/healthmedicine",
+    "flywayMigrationCounter": 1
+  }
+}
